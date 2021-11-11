@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Dancing Script', cursive;
+}
+.header_div{
+    background: #95A3A4;
+    color: white;
+}
+.header_div p{
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    letter-spacing: 1px;
+}
+.main_div button{
+    margin-top: 30px;
+    font-family: 'Dancing Script', cursive;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 130px;
+}
+.footer{
+    color: gray;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    background-color: whitesmoke;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
